@@ -1,3 +1,15 @@
+# Version: 0.2.1
+
+
+#### Bug Fixes
+
+* [#73](https://github.com/pablocollazoc/microflow/pull/73): Fix changelog due branch protections
+
+#### Unlabeled Changes
+
+* [#72](https://github.com/pablocollazoc/microflow/pull/72): Sincronizar develop con main
+
+
 # Version: 0.2.0
 
 
