@@ -1,3 +1,11 @@
+# Version: 0.2.0
+
+
+#### Unlabeled Changes
+
+* [#72](https://github.com/pablocollazoc/microflow/pull/72): Sincronizar develop con main
+
+
 # Version: 0.1.1
 
 
