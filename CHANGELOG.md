@@ -1,3 +1,40 @@
+# Version: 0.2.1
+
+
+#### Bug Fixes
+
+* [#73](https://github.com/pablocollazoc/microflow/pull/73): Fix changelog due branch protections
+
+#### Unlabeled Changes
+
+* [#72](https://github.com/pablocollazoc/microflow/pull/72): Sincronizar develop con main
+
+
+# Version: 0.2.0
+
+
+#### Bug Fixes
+
+* [#56](https://github.com/pablocollazoc/microflow/pull/56): fix: updated changelog file
+* [#68](https://github.com/pablocollazoc/microflow/pull/68): Paso final de despliegue en AWS EKS 
+* [#67](https://github.com/pablocollazoc/microflow/pull/67): Paso final de despliegue en AWS EKS
+
+#### New Features
+
+* [#60](https://github.com/pablocollazoc/microflow/pull/60): Posibilidad de ejecución del flujo con despliegue opcional
+* [#63](https://github.com/pablocollazoc/microflow/pull/63): Paso final de despliegue en AWS EKS
+
+#### Test
+
+* [#65](https://github.com/pablocollazoc/microflow/pull/65): Testing aws kes deployment
+
+#### Unlabeled Changes
+
+* [#55](https://github.com/pablocollazoc/microflow/pull/55): Sincronizar develop con main
+* [#70](https://github.com/pablocollazoc/microflow/pull/70): Paso final de despliegue en AWS EKS
+
+
+
 # Version: 0.1.1
 
 
