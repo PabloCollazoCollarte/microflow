@@ -132,7 +132,7 @@ jobs:
 
       - name: Get project
         id: get-project
-        uses: actions/download-artifact@v3
+        uses: actions/download-artifact@v4.1.7
         with:
           name: project
 
@@ -201,7 +201,7 @@ jobs:
 
       - name: Get project
         id: get-project
-        uses: actions/download-artifact@v3
+        uses: actions/download-artifact@v4.1.7
         with:
           name: project
 
@@ -291,19 +291,19 @@ jobs:
 
       - name: Get results Sonar scanner
         id: get-results-scanner
-        uses: actions/download-artifact@v3
+        uses: actions/download-artifact@v4.1.7
         with:
           name: scanner_results
 
       - name: Get results checkstyle
         id: get-results-checkstyle
-        uses: actions/download-artifact@v3
+        uses: actions/download-artifact@v4.1.7
         with:
           name: checkstyle_results
 
       - name: Get results spotbugs
         id: get-results-spotbugs
-        uses: actions/download-artifact@v3
+        uses: actions/download-artifact@v4.1.7
         with:
           name: spotbugs_results
 
@@ -342,7 +342,7 @@ jobs:
     steps:
       - name: Get project
         id: get-project
-        uses: actions/download-artifact@v3
+        uses: actions/download-artifact@v4.1.7
         with:
           name: project
       - name: build & test project
@@ -378,7 +378,7 @@ jobs:
     steps:
       - name: Get project
         id: get-project
-        uses: actions/download-artifact@v3
+        uses: actions/download-artifact@v4.1.7
         with:
           name: packaged_project
 
